@@ -5,16 +5,16 @@ This project implements the air quality monitoring system based on state-of-art 
 # Pre-requisites 
 
 Software Requirements
-ThingSpeak IOT Cloud
-Arduino IDE
-Libraries
-Sensors Libraries such as DHT.h, WiFi.h, LiquidCrystal_I2C.h
-Machine Learning libraries such as numpy, pandas, matplotlib, seaborn, tkinter, sqlite3
-Visual Studio Code
+  1. ThingSpeak IOT Cloud
+  2. Arduino IDE
+  3. Libraries
+  4. Sensors Libraries such as DHT.h, WiFi.h, and LiquidCrystal_I2C.h
+  5. Machine Learning libraries such as numpy, pandas, matplotlib, seaborn, tkinter, sqlite3
+  6. Visual Studio Code
 
 Hardware Requirements
-Temperature and Humidity Sensors
-WiFi Module
-LCD
-Jump Wires
-Power Cables
+  1. Temperature and Humidity Sensors
+  2. WiFi Module
+  3. LCD
+  4. Jump Wires
+  5. Power Cables
