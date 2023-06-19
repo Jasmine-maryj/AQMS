@@ -2,7 +2,7 @@
 
 This project implements the air quality monitoring system based on state-of-art Internet Of Things techniques. In this system, portable sensors collect air quality information timely and the ambient temperature and humidity. It will display the sensed data in a user-friendly format on an LCD and Thing Speak Cloud.
 
-Pre-requisites 
+# Pre-requisites 
 
 Software Requirements
 ThingSpeak IOT Cloud
