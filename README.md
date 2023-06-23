@@ -31,3 +31,7 @@ This project implements the air quality monitoring system based on state-of-art 
 5. Create a channel in ThingSpeak Cloud and add fields for Humidity, Temperature, Co, and NH3.
 6. Configure WiFi password and ThingSpeak IOT Cloud channel key.
 7. Click on the Serial monitor to show  WiFi connection establishment logs details and sensor values.
+
+
+
+
