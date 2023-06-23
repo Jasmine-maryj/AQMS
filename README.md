@@ -24,3 +24,4 @@ This project implements the air quality monitoring system based on state-of-art 
 2. Since we are using ESP32, select esp32 board
 3. Download POM3 and add it to the Driver Manager if you don't have one. Select port and add POM3 port.
 4. Configure WiFi password and ThingSpeak IOT Cloud channel key.
+5. 
