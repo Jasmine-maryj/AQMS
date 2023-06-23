@@ -2,7 +2,9 @@
 
 This project implements the air quality monitoring system based on state-of-art Internet Of Things techniques. In this system, portable sensors collect air quality information timely and the ambient temperature and humidity. It will display the sensed data in a user-friendly format on an LCD and Thing Speak Cloud.
 
-![alt yes](https://github.com/Jasmine-maryj/AQMS/blob/main/images/iot.jpg)
+<p align="center">
+  <img src="https://github.com/Jasmine-maryj/AQMS/blob/main/images/iot.jpg" width="600" alt="iot-output-matrix">
+</p>
 
 ## Pre-requisites 
 
@@ -25,5 +27,6 @@ This project implements the air quality monitoring system based on state-of-art 
 1. Install and download Arduino IDE, then download all the sensor libraries in Arduino IDE
 2. Since we are using ESP32, select esp32 board
 3. Download POM3 and add it to the Driver Manager if you don't have one. Select port and add POM3 port.
-4. Configure WiFi password and ThingSpeak IOT Cloud channel key.
-5. Click on the Serial monitor to show the logs of WiFi connection establishment details and sensor values.
+4. Create a channel in ThingSpeak Cloud and add fields for Humidity, Temperature, Co, and NH3.
+5. Configure WiFi password and ThingSpeak IOT Cloud channel key.
+6. Click on the Serial monitor to show  WiFi connection establishment logs details and sensor values.
