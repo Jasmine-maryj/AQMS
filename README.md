@@ -33,5 +33,5 @@ This project implements the air quality monitoring system based on state-of-art 
 7. Click on the Serial monitor to show  WiFi connection establishment logs details and sensor values.
 
 
-
+To access the corresponding blog post, you can find it at the following this link:[iot-based-air-quality-monitoring-system](https://jasminemary.hashnode.dev/iot-based-air-quality-monitoring-system)
 
